@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\TestBlobs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\TestBlobs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\TestBlobs.csproj",
+        "projectName": "TestBlobs",
+        "projectPath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\TestBlobs.csproj",
         "packagesPath": "C:\\Users\\mbrabec\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",

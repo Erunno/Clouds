@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1/7/K0PjqH6ogUUSudBLCSGJGGb/Au9vyLwZn9I3snIfsZa012DDWgQTJZcI5ai4SMwPizcxFAtpa5CdJ9M8LA==",
+  "dgSpecHash": "d58n7B4OielXS2Ri7nZZyS8rL50exQ3Y/EOapt8AzAqN/UrczawKAxdovncWRTj50eApO2XzUfqJa0yl+v46og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\TestStorage\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab03\\TestStorage\\ConsoleApp1\\TestBlobs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mbrabec\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\mbrabec\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\azure.storage.blobs.12.10.0.nupkg.sha512",

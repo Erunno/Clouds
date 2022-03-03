@@ -1,0 +1,5 @@
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\lab03\TestStorage\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\lab03\TestStorage\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\lab03\TestStorage\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\lab03\TestStorage\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\lab03\TestStorage\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
