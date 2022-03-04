@@ -1,0 +1,7 @@
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs\obj\Release\net6.0\PubTmp\Out\WebJobs.exe
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs\obj\Release\net6.0\PubTmp\Out\WebJobs.dll
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs\obj\Release\net6.0\PubTmp\Out\WebJobs.deps.json
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs\obj\Release\net6.0\PubTmp\Out\WebJobs.runtimeconfig.json
+C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs\obj\Release\net6.0\PubTmp\Out\WebJobs.pdb
