@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h1y/erpvCSHkJoxFkNcfL7SCM8va4Lsj0n5fmCgMMnKuy6r8OeuuZ6M6TaLrHZF/U5JoYtHUTHGcNJTtk2UTQQ==",
+  "dgSpecHash": "ggDmuzlPSOcsBzNtahDkpHwbt4EAgEXp3rvzyKj2L1iABX5akRsLD/qRYWRmaib2hznlX94Hv8WcJc31g5MRXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\WebJobs\\WebJob\\WebJob.csproj",
+  "projectFilePath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab02\\WebJobs\\WebJob\\WebJob.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mbrabec\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\mbrabec\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

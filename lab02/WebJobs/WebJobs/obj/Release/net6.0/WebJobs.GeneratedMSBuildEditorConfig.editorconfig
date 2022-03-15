@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebJobs
 build_property.RootNamespace = WebJobs
-build_property.ProjectDir = C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs\
+build_property.ProjectDir = C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\lab02\WebJobs\WebJobs\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\WebJobs\WebJobs
+build_property.MSBuildProjectDirectory = C:\Users\mbrabec\Desktop\MFF\2021_22\letni\clouds\lab02\WebJobs\WebJobs
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/WebJobs/WebJobs/Pages/Error.cshtml]
+[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/lab02/WebJobs/WebJobs/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/WebJobs/WebJobs/Pages/Index.cshtml]
+[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/lab02/WebJobs/WebJobs/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/WebJobs/WebJobs/Pages/Privacy.cshtml]
+[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/lab02/WebJobs/WebJobs/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/WebJobs/WebJobs/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/lab02/WebJobs/WebJobs/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/WebJobs/WebJobs/Pages/_ViewImports.cshtml]
+[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/lab02/WebJobs/WebJobs/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/WebJobs/WebJobs/Pages/_ViewStart.cshtml]
+[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/lab02/WebJobs/WebJobs/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/WebJobs/WebJobs/Pages/Shared/_Layout.cshtml]
+[C:/Users/mbrabec/Desktop/MFF/2021_22/letni/clouds/lab02/WebJobs/WebJobs/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dnj7ehako5

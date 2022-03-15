@@ -7,6 +7,6 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbn4m4Q/d30mdIRia54hUdQAAAAACAAAAAAADZgAAwAAAABAAAAC0qzPd3ud20n3tDkk7UPOUAAAAAASAAACgAAAAEAAAAL4UeUrpw43HlU2Q9Qw6MQGAAAAAiegUwHxT/OqRhA9tfzjbmrOJ8sX/0rTjcvvMrHR5YJmK2z03WVfgoPu9RTAgJiA+LoP5vZazUE7y4hjhysktwHdtRLcz7dp4B6p43nwk36oIuvgD/ATEEJj8baKjnybfrxs/je/3WsW0naHYrMqjwE3Rq1RgHIfoV5IrTCFDisAUAAAAkRbSe786nDaluShxHh4GjLEqsHU=</EncryptedPassword>
-    <History>True|2022-03-04T10:34:41.9581316Z;</History>
+    <History>True|2022-03-15T16:00:35.8272695Z;True|2022-03-04T11:34:41.9581316+01:00;</History>
   </PropertyGroup>
 </Project>

@@ -1676,11 +1676,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\WebJobs\\WebJob\\WebJob.csproj",
+      "projectUniqueName": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab02\\WebJobs\\WebJob\\WebJob.csproj",
       "projectName": "WebJob",
-      "projectPath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\WebJobs\\WebJob\\WebJob.csproj",
+      "projectPath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab02\\WebJobs\\WebJob\\WebJob.csproj",
       "packagesPath": "C:\\Users\\mbrabec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\WebJobs\\WebJob\\obj\\",
+      "outputPath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab02\\WebJobs\\WebJob\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

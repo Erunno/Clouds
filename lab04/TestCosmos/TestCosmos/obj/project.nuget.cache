@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ceT6vBFbUahPVFq4gTRZkHo83/rxoW/qGvpKRGB3oZablOzdiETVShfAceNDF4LzLpCCP5RtriRXqB2QTjBsQ==",
+  "dgSpecHash": "iyycuD6+b4QDnTLYjgUEeu72Qiudqq0UhJ6oOVm4ol3U/IiMt4SYRjH/L/NO5e99oC6QBAsgJplUxZI+M7nzEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\TestCosmos\\TestCosmos\\TestCosmos.csproj",
+  "projectFilePath": "C:\\Users\\mbrabec\\Desktop\\MFF\\2021_22\\letni\\clouds\\lab04\\TestCosmos\\TestCosmos\\TestCosmos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mbrabec\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\mbrabec\\.nuget\\packages\\microsoft.azure.cosmos\\3.25.0\\microsoft.azure.cosmos.3.25.0.nupkg.sha512",
